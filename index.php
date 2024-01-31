@@ -1,7 +1,7 @@
 <?php
 $a_bool = true;   // логическое значение
-$a_str  = "foo";  // строка
-$a_str2 = 'foo';  // строка
+$a_str  = "foo";  // первая строка
+$a_str2 = 'foo';  // вторая строка
 $an_int = 12;     // целое число
 
 echo get_debug_type($a_bool), "\n";
